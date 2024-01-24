@@ -1,0 +1,34 @@
+[
+  {
+    "name": "mercury",
+    "color": "#DEF4FC"
+  },
+  {
+    "name": "venus",
+    "color": "#F7CC7F"
+  },
+  {
+    "name": "earth",
+    "color": "#545BFE"
+  },
+  {
+    "name": "mars",
+    "color": "#FF6A45"
+  },
+  {
+    "name": "jupiter",
+    "color": "#ECAD7A"
+  },
+  {
+    "name": "saturn",
+    "color": "#FCCB6B"
+  },
+  {
+    "name": "uranus",
+    "color": "#65F0D5"
+  },
+  {
+    "name": "neptune",
+    "color": "#497EFA"
+  }
+]
